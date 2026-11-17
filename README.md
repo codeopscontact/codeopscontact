@@ -24,8 +24,8 @@ SHA pinning, least-privilege token permissions, and credential hygiene for your 
 Self-serve kits on Payhip, for teams who'd rather fix it themselves:
 
 - **Flaky CI Rescue Kit — USD 49** — measure, classify, and eliminate flaky GitHub Actions tests in one week. https://payhip.com/b/k36mN
-- **GitHub Actions Security Hardening Kit** — the audit checklist and fixes from the hardening sprint, as a kit. https://payhip.com/CodeOps
-- **CI Cost Reduction Kit** — the cost-audit method from the sprint, as a kit. https://payhip.com/CodeOps
+- **GitHub Actions Security Hardening Kit — USD 59** — the audit checklist and fixes from the hardening sprint, as a kit. https://payhip.com/b/risOz
+- **CI Cost Reduction Kit — USD 49** — the cost-audit method from the sprint, as a kit. https://payhip.com/b/akAMp
 
 See the approach in action: the public [flake-scan-demo](https://github.com/codeopscontact/flake-scan-demo) repo shows how I measure a flake's reproduction rate under real CI conditions.
 
